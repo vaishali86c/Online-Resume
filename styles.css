@@ -85,18 +85,6 @@ a {
 	flex-direction: column;
 	gap: 5rem;
 }
-.group-3 {
-	max-width: 700px;
-	width: 100%;
-	margin: 0 auto;
-	grid-column: 1/-1;
-	display: flex;
-	flex-direction: row;
-	gap: 5rem;
-}
-.group-3 > div {
-	flex: 1; 
-}
 
 @media only screen and (max-width: 768px) {
 	.profile {
@@ -148,30 +136,12 @@ a {
 	line-height: 2;
 }
 
-.ref_item {
-	margin-top: 2rem;
-}
-.ref_name {
-	font-size: 1.6rem;
-	font-weight: 700;
-}
-
-
 .edu_item {
 	margin-top: 2rem;
 }
 
 
 .certification_item {
-	margin-top: 2rem;
-}
-
-.exp_item {
-	margin-top: 2rem;
-}
-
-
-.awards_item {
 	margin-top: 2rem;
 }
 
